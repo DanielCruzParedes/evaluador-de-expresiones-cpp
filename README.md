@@ -42,7 +42,7 @@ cd build
   ```
   (100+25)*399
   ```
-- **Salida:** La expresión ingresada, la valuación de la expresión en notación postfija y su resultado:
+- **Salida:** La expresión ingresada, la evaluación de la expresión en notación postfija y su resultado:
   ```
   La expresion ingresada es: (100+25)*399
   La expresion en postfijo es: 100 25 + 399 * 
@@ -60,7 +60,7 @@ cd build
 
 ## Pruebas
 Se implementa TDD utilizando el framework **Catch2**.
-- Se incluyen al menos 10 pruebas exitosas y 10 fallidas con validaciones de errores.
+- Se incluyen 10 pruebas exitosas y 10 fallidas con validaciones de errores.
 - Los tests se ejecutan desde la carpeta `build`.
 
 ## Créditos
