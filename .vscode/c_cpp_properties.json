@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "\"C:/Users/danie/Catch2/src\"",
+                "\"C:/Users/danie/Catch2/src/catch2\"",
+                "\"C:/Users/danie/Catch2/src/catch2/benchmark\""
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "cStandard": "c17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
